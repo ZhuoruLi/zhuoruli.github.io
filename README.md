@@ -9,3 +9,7 @@ This is the source code for my portfolio website. I built this to showcase what 
 * [Font Awesome](https://fontawesome.com/)
 
 ## Demo
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4dae831721d7dbb721d4a0e8d29df44e1220eaaf
